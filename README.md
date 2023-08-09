@@ -1,5 +1,7 @@
 ## The Smith Parasite Project
 
+__Competition link:__ https://www.kaggle.com/competitions/the-smith-parasite
+
 ## Data Description
 
 The Data Description Phase aims to preliminarily understand the structure of the data, this process will allow us to get familiarized with the data and have some first impressions of patterns and relations, errors and associated changes.
